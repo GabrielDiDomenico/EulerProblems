@@ -1,5 +1,5 @@
 # EulerProblems
-My resolution of the problems in the site Project Euler
+My solutions of the problems in the site Project Euler
 
 # Author
 
